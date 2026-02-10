@@ -9,7 +9,9 @@
 ## 📽️ Project Demo
 
 <p align="center">
-  [Video Placeholder: Real-time Live2D Lipsync & Multilingual Translation]
+  <video src="https://github.com/shiiyoruxz/YOUR_REPO_NAME/raw/main/leur-demo.mp4" width="100%" controls autoplay muted loop>
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ---
