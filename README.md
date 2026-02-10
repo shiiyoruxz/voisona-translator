@@ -9,8 +9,7 @@
 ## 📽️ Project Demo
 
 <p align="center">
-  <video src="leur-demo.mp4" width="100%" controls>
-    <p>Your browser does not support the video tag. <a href="leur-demo.mp4">Click here to view the video file directly.</a></p>
+  <video src="PASTE_THE_GITHUB_ASSET_LINK_HERE" width="100%" controls autoplay muted loop>
   </video>
 </p>
 
