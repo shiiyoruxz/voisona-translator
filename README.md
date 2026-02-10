@@ -8,10 +8,7 @@
 
 ## 📽️ Project Demo
 
-<p align="center">
-  <video src="https://github.com/shiiyoruxz/voisona-translator/raw/main/demo/leur-demo.mp4" width="100%" controls autoplay muted loop>
-  </video>
-</p>
+https://github.com/user-attachments/assets/5494c06a-bfa4-4431-96a7-11e20a8aa0e4
 
 ---
 
