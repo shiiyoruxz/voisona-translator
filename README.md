@@ -9,8 +9,8 @@
 ## 📽️ Project Demo
 
 <p align="center">
-  <video src="https://github.com/shiiyoruxz/YOUR_REPO_NAME/raw/main/leur-demo.mp4" width="100%" controls autoplay muted loop>
-    Your browser does not support the video tag.
+  <video src="leur-demo.mp4" width="100%" controls>
+    <p>Your browser does not support the video tag. <a href="leur-demo.mp4">Click here to view the video file directly.</a></p>
   </video>
 </p>
 
