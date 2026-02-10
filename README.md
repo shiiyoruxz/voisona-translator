@@ -53,9 +53,6 @@ The project utilizes a low-latency media pipeline to sync the AI's "thought" pro
 ---
 
 ## 🚀 Future Roadmap
-
-* 💾 **Persistent Memory:** Integration of local **SQLite** and **ChromaDB** for RAG-based user preference recall.
-* 🎮 **OS Control:** Implementing function calling to monitor Windows hardware and execute system-level tasks.
 * 🎭 **Emotive Synthesis:** Auto-adjusting VoiSona parameters (Tone/Speed) based on LLM sentiment analysis.
 
 ---
